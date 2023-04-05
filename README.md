@@ -13,7 +13,7 @@ When user opens short url, it will be automatically redirected to original (long
 + With Docker and docker-compose: 
 
 ```sh
-$ git clone https://github.com/AnteMarin/UrlShortener-API.git
+$ git clone [https://github.com/AnteMarin/UrlShortener-API.git](https://github.com/nehssss/LongUrlToShortUrl.git)
 $ cd UrlShortener-API 
 $ docker-compose up 
 ```
