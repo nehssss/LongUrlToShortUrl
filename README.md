@@ -8,9 +8,5 @@ When user opens short url, it will be automatically redirected to original (long
 # How to use 
 ```sh
 $ git clone https://github.com/nehssss/LongUrlToShortUrl.git
-```
-    - Make sure you have access to local or any MySQL server.
-    - Open project in your favorite editor and change application.properties file to point to your MySQL database
-    - Build Spring project 
-    - Open localhost:8080/swagger-ui.html to see endpoints.
+use google cloud big table
 
